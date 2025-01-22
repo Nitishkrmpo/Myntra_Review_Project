@@ -1,11 +1,11 @@
 ### MYNTRA SCAPPER PROJECT
 ## Overview
-The Myntra Scrapper Project is a tool designed to scrape product data from the Myntra website. It extracts information such as product names, prices, descriptions, and images, and stores them in a structured format for further analysis.
+The Myntra Scrapper Project is a tool designed to scrape product data from the Myntra website. It extracts information such as product names, prices & reviews in MongoDB for further analysis.
 
 ## Features
-- Scrapes product details including name, price, description, and image URL.
+- Scrapes product details including name, price & reviews.
 - Supports pagination to scrape multiple pages of products.
-- Saves scraped data in CSV or JSON format.
+- Saves scraped data in CSV format.
 - Configurable to scrape different categories or search results.
 
 ## Installation
